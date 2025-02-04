@@ -1,0 +1,2 @@
+# SlimJetAppimage
+SlimJetAppimage
